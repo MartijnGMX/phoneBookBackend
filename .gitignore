@@ -80,7 +80,8 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# we need dist for static web service:
+# dist
 
 # Gatsby files
 .cache/
